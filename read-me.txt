@@ -1,0 +1,31 @@
+Explanation of the columns of the data file "Final-Data-Cleaned.xlsx":
+
+Row id = The row number of the entire file
+Results index = Participant number
+Controller name = Type of question from Ibex Farm
+Item number = The unique number of each question
+Item order = The order in which each participant saw the shuffled questions
+Type = Type of question in our research
+Group = Due to a Latin square design, participants saw a control word or the idiom's actual ending. The group shows which idiom is used, regardless of whether it was the control or read word ending.
+Field name = Questions from the Ibex Farm form
+Field value = Answer to the Ibes Farm form questions
+Question = The shown final word of an idiom. Participants have to choose whether it is a real word or not. Includes HTML to make the word big and center it. 
+Answer = The given answer. 0 = non-word and 1 - word. 
+Correct = Whether the given answer was correct (1) or incorrect (0)
+RT = The measured reaction time in ms for the given answer. 
+Age = Column with only the age from the "Field value" column
+Hand = Column with only whether the participant is left-handed or right-handed from the "Field value" column
+Education = Column with only the Education from the "Field value" column
+Info = Answers to the English usage and proficiency questions
+Age2 = The age of the participant filled into each row for that participant.
+Hand2 = Whether the participant is left-handed or right-handed, filled into each row for that participant.
+Education2 = The education level of the participant filled into each row for that participant.
+reading proficiency = The reading proficiency answer from info filled into each row for that participant.
+writing proficiency = The writing proficiency answer from info filled into each row for that participant.
+Listening proficiency = The listening proficiency answer from info filled into each row for that participant.
+Speaking proficiency = The speaking proficiency answer from info filled into each row for that participant.
+Friends	School = The usage of speaking English with friends answer from info filled into each row for that participant.
+Dutch people = The usage of speaking English with other Dutch people answer from info filled into each row for that participant.
+Reading Fun = The usage of reading English for fun answers from info filled into each row for that participant.
+TV = The usage of watching English tv answer from info filled into each row for that participant.
+How long speaking = The how long do you speak English answer from info filled into each row for that participant.
